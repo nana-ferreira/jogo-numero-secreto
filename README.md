@@ -20,7 +20,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto inicial](https://github.com/nana-ferreira/jogo-numero-secreto) ou [baixá-lo](https://github.com/nana-ferreira/jogo-numero-secreto.zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/nana-ferreira/jogo-numero-secreto) e/ou [visualizá-lo](https://jogo-numero-secreto-rose-delta-91.vercel.app)
 
 ## 🛠️ Abrir e rodar o projeto
 
